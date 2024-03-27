@@ -4,6 +4,7 @@ package Group2;public class g2 {
       System.out.println("This was Saritas test, but now it is mine:)");
       System.out.println("This is Group 2 and Sarita wrote this code;)");
       System.out.println("test Rosana12345");
+      System.out.println("new one");
       System.out.println("This changes made by Sarita in Local repository.");
       System.out.println("test333");
     }
